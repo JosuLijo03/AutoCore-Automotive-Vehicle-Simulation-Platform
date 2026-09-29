@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/SUV transparent.png</file>
+    </qresource>
+</RCC>

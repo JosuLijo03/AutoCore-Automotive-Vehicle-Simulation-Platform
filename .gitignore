@@ -1,0 +1,10 @@
+build/
+build-mingw/
+*.exe
+*.dll
+*.obj
+*.o
+*.pdb
+.qtcreator/
+.vscode/
+vehicle.db
